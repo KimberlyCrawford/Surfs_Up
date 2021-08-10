@@ -19,7 +19,8 @@ climate_analysis.ipynb
 - GitHub was used to store the code.
 
 # Results
-Precipitation Analysis
+Precipitation Analysis - This data gives us a summary of different statistics for the amount of precipitation in a year. The count is the number of times precipitation was observed. The other statistics are the precipitation amounts for each station for each day.
 
+Weather Station Analysis - The results show that the low (minimum) temperature is 54 degrees, the high (maximum) temperature is 85 degrees, and the average temperature is approximately 71.7 degrees. Looking at this plot, we can infer that a vast majority of the observations were over 67 degrees. If you count up the bins to the right of 67 degrees, you will get about 325 days where it was over 67 degrees when the temperature was observed.
 
 # Summary
