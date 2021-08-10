@@ -4,7 +4,7 @@
 An analysis of weather data to support investing in a surf and shake shop in Oahu, Hawaii.
 
 ## Purpose
-A prospective investor, W. Avy, is concerned about the amount of precipitation in Oahu and wants to see a full year of data analyzed starting August 23, 2017.
+A prospective investor, W. Avy, is concerned about the amount of precipitation in Oahu and wants to see a full year of data analyzed starting August 23, 2017. The purpose of this analysis is to provide W. Avy with insight into the weather patterns of a specific location on Oahu where you would like to build your shop. 
 
 ## Resources
 
@@ -19,5 +19,7 @@ climate_analysis.ipynb
 - GitHub was used to store the code.
 
 # Results
+Precipitation Analysis
+
 
 # Summary
