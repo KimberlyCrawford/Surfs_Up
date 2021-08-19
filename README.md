@@ -6,11 +6,13 @@ An analysis of weather data to support investment in a surf and shake shop in Oa
 ## Purpose
 A prospective investor, W. Avy, is concerned about the amount of precipitation in Oahu and wants to see a full year of data analyzed starting August 23, 2017. The purpose of this analysis was to provide W. Avy with insight into the weather patterns of a specific location on Oahu to build a shop. 
 
-### Challenge: Additional temperature trends for the months of June and December were given to determine if the surf and ice cream shop business is sustainable year-round and would be a good investment. 
+### Challenge: 
+Additional temperature trends for the months of June and December were given to determine if the surf and ice cream shop business is sustainable year-round and would be a good investment. 
 
 ## Resources
 
-### Data Files: hawaii.sqlite, climate_analysis.ipynb
+### Data Files: 
+hawaii.sqlite, climate_analysis.ipynb
 
 ### Programming Software:
 - SQLite was used as a quick way to setup a database engine locally on my computer without requiring a server--used to support testing and easy prototyping. SQLite databases can be used on a mobile phone app to store certain information about you or your local users; however there are no remote users with fewer security features. Dependencies included SQLAlchemy.  
