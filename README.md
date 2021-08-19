@@ -21,7 +21,26 @@ hawaii.sqlite, climate_analysis.ipynb
 - GitHub was used to store the code.
 
 # Results
-Precipitation Analysis - This data gives us a summary of different statistics for the amount of precipitation in a year. The count is the number of times precipitation was observed. The other statistics are the precipitation amounts for each station for each day.
+
+### Precipitation Analysis: 
+
+The following chart represents the dates from the weather dataset and the total amount of precipitation for each day for all nine weather stations. The chart reveals some months have higher amounts of precipitation than others. 
+![Fig1Precipitation.png](https://github.com/KimberlyCrawford/Election-Analysis/blob/main/Election_results.png)
+
+The following summary includes different statistics for the amount of precipitation in a year. The count is the number of times precipitation was observed. The other statistics are the precipitation amounts for each station for each day.
+![Precipitation_Summary_Statistics.png](https://github.com/KimberlyCrawford/Election-Analysis/blob/main/Election_results.png)
+
+Out of the nine stations, the following shows the most active stations with precipitation recordings listed in descending order.
+![Most_active_stations.png](https://github.com/KimberlyCrawford/Election-Analysis/blob/main/Election_results.png)
+
+The most active station was Station ID USC00519281. The results show that the low (minimum) temperature is 54 degrees, the high (maximum) temperature is 85 degrees, and the average temperature is approximately 71.7 degrees.
+![Most_active_station_statistics.png](https://github.com/KimberlyCrawford/Election-Analysis/blob/main/Election_results.png)
+
+Observed 12-month temperature data for Station ID USC00519281 (2772 observations) reveals a vast majority of the observations were over 67 degrees. Temperatures over 67 degrees were observed approximately 325 days over the twelve-month period. 
+![Fig2Temperature.png](https://github.com/KimberlyCrawford/Election-Analysis/blob/main/Election_results.png)
+
+Website for Analysis Results:
+
 
 Weather Station Analysis - The results show that the low (minimum) temperature is 54 degrees, the high (maximum) temperature is 85 degrees, and the average temperature is approximately 71.7 degrees. Looking at this plot, we can infer that a vast majority of the observations were over 67 degrees. If you count up the bins to the right of 67 degrees, you will get about 325 days where it was over 67 degrees when the temperature was observed.
 
