@@ -33,17 +33,19 @@ The following summary includes different statistics for the amount of precipitat
 Out of the nine stations, the following shows the most active stations with precipitation recordings listed in descending order.
 ![Most_active_stations.png](https://github.com/KimberlyCrawford/Surfs_Up/blob/main/analysis/Most_active_stations.png)
 
+### Weather Station Analysis:
 The most active station was Station ID USC00519281. The results show that the low (minimum) temperature is 54 degrees, the high (maximum) temperature is 85 degrees, and the average temperature is approximately 71.7 degrees.
 ![Most_active_station_statistics.png](https://github.com/KimberlyCrawford/Surfs_Up/blob/main/analysis/Most_active_station_statistics.png)
 
 Observed 12-month temperature data for Station ID USC00519281 (2772 observations) reveals a vast majority of the observations were over 67 degrees. Temperatures over 67 degrees were observed approximately 325 days over the twelve-month period. 
 ![Fig2Temperature.png](https://github.com/KimberlyCrawford/Surfs_Up/blob/main/analysis/Fig2Temperature.png)
 
-Website for Analysis Results:
-
-
-### Weather Station Analysis:
-The results show that the low (minimum) temperature is 54 degrees, the high (maximum) temperature is 85 degrees, and the average temperature is approximately 71.7 degrees. Looking at this plot, we can infer that a vast majority of the observations were over 67 degrees. If you count up the bins to the right of 67 degrees, you will get about 325 days where it was over 67 degrees when the temperature was observed.
+Analysis Results Website for Potential Investors includes a Welcome Homepage with the following additional routes:
+ http://127.0.0.1:5000/
+- Precipitation
+- Stations
+- Monthly Temperature
+- Statistics 
 
 # Challenge Summary
 
@@ -51,11 +53,13 @@ The following summary describes the key differences in weather between June and 
 
 ## Challenge Results: 
 Summary Statistics for June
+![June_statistics.png](https://github.com/KimberlyCrawford/Surfs_Up/blob/main/analysis/June_statistics.png) ![Fig3June.png](https://github.com/KimberlyCrawford/Surfs_Up/blob/main/analysis/Fig2Temperature.png)
 - Point 1
 - Point 2
 - Point 3
 
 Summary Statistics for December
+![December_statistics.png](https://github.com/KimberlyCrawford/Surfs_Up/blob/main/analysis/December_statistics.png) ![Fig4December.png](https://github.com/KimberlyCrawford/Surfs_Up/blob/main/analysis/Fig4December.png)
 - Point 1
 - Point 2
 - Point 3
