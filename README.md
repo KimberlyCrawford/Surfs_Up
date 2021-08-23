@@ -49,21 +49,24 @@ Analysis Results Website for Potential Investors includes a Welcome Homepage wit
 
 # Challenge Summary
 
-The following summary describes the key differences in weather between June and December and two recommendations for further analysis.
+The following summary describes the key differences in weather between June and December and two recommendations for further analysis. As shown in the results, a surf and ice cream shop business would be sustainable year-round.
 
 ## Challenge Results: 
-Summary Statistics for June
-![June_statistics.png](https://github.com/KimberlyCrawford/Surfs_Up/blob/main/analysis/June_statistics.png) ![Fig3June.png](https://github.com/KimberlyCrawford/Surfs_Up/blob/main/analysis/Fig2Temperature.png)
-- Point 1
-- Point 2
-- Point 3
 
-Summary Statistics for December
+#### Summary Statistics for June
+
+![June_statistics.png](https://github.com/KimberlyCrawford/Surfs_Up/blob/main/analysis/June_statistics.png) ![Fig3June.png](https://github.com/KimberlyCrawford/Surfs_Up/blob/main/analysis/Fig3June.png)
+- The average temperature in June was slightly higher at 74.9 compared to 71.0 in December.
+- The minimum temperature in June was slightly higher at 64 compared to 56 in December.
+- The maximum temperature in June was slightly higher at 85 compared to 83 in December.
+
+#### Summary Statistics for December
+
 ![December_statistics.png](https://github.com/KimberlyCrawford/Surfs_Up/blob/main/analysis/December_statistics.png) ![Fig4December.png](https://github.com/KimberlyCrawford/Surfs_Up/blob/main/analysis/Fig4December.png)
-- Point 1
-- Point 2
-- Point 3
+- The average temperature in December was slightly lower at 71.0 compared to 74.9 in June.
+- The minimum temperature in December was slightly lower at 56 compared to 64 in June.
+- The maximum temperature in December was slightly lower at 83 compared to 85 in June.
 
 ## Recommendations for Further Analysis: 
-- Query 1 - Additional query to perform to gather more weather data for June and December.
-- Query 2 - Additional query to perform to gather more weather data for June and December.
+- Query 1 - Additional query to perform to gather more weather data for June and December should include a precipitation analysis especially with June starting hurricane season.
+- Query 2 - Additional query to perform to gather more weather data for June and December should include a refined list of temperatures based on various times of the day.
