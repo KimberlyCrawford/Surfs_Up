@@ -70,3 +70,5 @@ The following summary describes the key differences in weather between June and 
 ## Recommendations for Further Analysis: 
 - Query 1 - Additional query to perform to gather more weather data for June and December should include a precipitation analysis especially with June starting hurricane season.
 - Query 2 - Additional query to perform to gather more weather data for June and December should include a refined list of temperatures based on various times of the day.
+
+#### Module 9, Data Analysis & Visualization Certificate Program, UT Austin McCombs School of Business, 2021.
